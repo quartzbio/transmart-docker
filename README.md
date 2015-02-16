@@ -14,7 +14,7 @@ as downloaded from https://portal.etriks.org/Portal/
 
 # How to use it ?
 clone the repository, and type: **make run** 
-By default it will bind the docker ports to your computer, then point your browser to: http://localhost:8080.
+By default it will bind the docker ports to your computer, then point your browser to: http://localhost:8080
 
 N.B: If you use boot2docker (e.g. on MacOsX or Windows), use instead the boot2docker ip 
 (e.g. http://192.168.59.103:8080).
