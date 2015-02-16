@@ -6,7 +6,7 @@ This work is only a proof of concept, and should only be used for testing purpos
 It is not distributed by the Transmart foundation nor by the eTRIKS consortium.
 
 # What is it ?
-This docker provides a fat container running tomcat, solr, Rserver and Postgres, to deliver the transmart web-app.
+This docker provides a fat container running tomcat, solr, Rserve and Postgres, to deliver the transmart web-app.
 
 ## transmart version
 The transmart software currently provided in the master branch is transmart.war.1.2.2.e.fg-fix
